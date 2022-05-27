@@ -1,4 +1,4 @@
-# raspi-clock-weather
+# raspi-intelligent-clock
 Raspberry Pi Zero 7 segments display hour, date and temperature from JSON API.
 ZeroSeg library located at https://github.com/AverageManVsPi/ZeroSeg
 ![obraz](https://user-images.githubusercontent.com/48838635/168429907-1073ba81-b612-4ef8-8e0c-3aa6c13c19fc.png)
